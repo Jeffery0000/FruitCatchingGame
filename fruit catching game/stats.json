@@ -1,0 +1,58 @@
+[
+  {
+    "user": "user1",
+    "pass": "pass1",
+    "score": 345,
+    "coin": 9530,
+    "item": 5
+  },
+  {
+    "user": "user2",
+    "pass": "pass2",
+    "score": 10,
+    "coin": 0,
+    "item": 0
+  },
+  {
+    "user": "user3",
+    "pass": "pass3",
+    "score": 20,
+    "coin": 0,
+    "item": 0
+  },
+  {
+    "user": "user4",
+    "pass": "pass4",
+    "score": 60,
+    "coin": 0,
+    "item": 0
+  },
+  {
+    "user": "user5",
+    "pass": "pass5",
+    "score": 90,
+    "coin": 0,
+    "item": 0
+  },
+  {
+    "user": "d",
+    "pass": "d",
+    "score": 0,
+    "coin": 0,
+    "item": 0
+  },
+  {
+    "user": "Jerry",
+    "pass": "asd",
+    "score": 214,
+    "coin": 536,
+    "item": 4
+  },
+  {
+    "user": "Jonnyo",
+    "pass": "asd",
+    "score": 162,
+    "coin": 924,
+    "item": 4
+  }
+]
